@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1: Introduction"
-author: "Student Name"
+author: "Xia Meng Howey"
 output: pdf_document
 ---
 
@@ -23,14 +23,17 @@ Enter answers to the questions just below the >Answer: prompt.
 1. What are your previous experiences with data analytics, R, and Git? Include both formal and informal training.
 
 > Answer: 
+I have worked through the book Hands-On Programming with R so that I could start using R for work many years ago. Most of my experience with data is making data visualizations like heatmaps, line graphs, histograms, and some data manipulation to reformat data.
 
 2. Are there any components of the course about which you feel confident?
 
 > Answer: 
+I have a beginner capability with R so I feel confident about this course.
 
 3. Are there any components of the course about which you feel apprehensive?
 
 > Answer: 
+I don't feel apprehensive but am excited to further grow my R abilities.
 
 
 ## 2) GitHub
