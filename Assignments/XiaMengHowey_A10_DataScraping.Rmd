@@ -249,3 +249,5 @@ Question: Just by looking at the plot (i.e. not running statistics), does Cary h
 > Answer:
 >Yes, there is an increase in the max daily withdrawals over time. There also 
 >seems to be a seasonal pattern each year.
+
+
