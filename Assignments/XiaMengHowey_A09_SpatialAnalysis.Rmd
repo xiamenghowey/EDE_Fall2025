@@ -292,3 +292,4 @@ NEcountymap.gage.Wash.20km <- mapview(gage.int.wash.20km,
 NEcountymap.gage.Wash.20km
 
 ```
+
